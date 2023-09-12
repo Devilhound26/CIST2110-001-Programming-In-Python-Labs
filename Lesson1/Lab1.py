@@ -1,5 +1,7 @@
 # Lab1 
-# Author:
+# Author: Jonathan Welch
+msg="Hello World!"
+print(msg)
 
 
 # 1. Uncomment the following print statement and run the program. Show the output to your instructor.
