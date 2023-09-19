@@ -12,10 +12,9 @@ name = "Jonathan Welch"
 age = 26
 # 3. Create a variable called "favorite_color" and assign it the value of your favorite color. Print the variable.
 favorite_color = "red"
-print(favorite_color)
+
 # 4. Create a variable called "favorite_movie" and assign it the value of your favorite movie. Print the variable.
 favorite_movie = "Chucky"
-print(favorite_movie)
 # 5. Use string concatenation to print the following sentence: "Hello, my name is <name>. I am <age> years old. My favorite color is <favorite_color> and my favorite movie is <favorite_movie>."
 # Note: punctuation and capitalization matters. Make sure your sentence matches the one above exactly.
 print("Hello, my name is " + name + ". I am " + str(age) + " years old. My favorite color is " + favorite_color + " and my favorite movie is " + favorite_movie + ".")
