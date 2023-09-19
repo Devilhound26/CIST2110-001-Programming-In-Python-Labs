@@ -1,5 +1,5 @@
 # Lab3
-# Author: 
+# Author: Jonathan Welch 
 
 """_summary_
 This lab is designed to get you familiar with Python input(), converting data types, and using the round() function.
