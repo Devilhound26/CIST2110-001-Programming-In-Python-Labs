@@ -1,5 +1,5 @@
 # Lab5
-# Author:
+# Author:Jonathan Welch 
 
 
 # Part 1: Create a function called 'greet' that takes a 'name' as an argument
