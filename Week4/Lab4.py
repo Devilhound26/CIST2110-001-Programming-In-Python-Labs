@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 # Lab3
 # Author: Jonathan Welch 
+=======
+# Lab4
+# Author: 
+>>>>>>> 54ae517b914ecbf647bd99eec7d585ab6998a387
 
 """_summary_
 This lab is designed to get you familiar with Python Boolean Expressions, Conditional Expressions, if-elif-else statements, and while / for loops.
